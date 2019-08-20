@@ -1,0 +1,26 @@
+{
+  "name": "apple-imessage",
+  "version": "0.0.0",
+  "description": "Apple iMessage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/imessage.git"
+  },
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/imessage/issues"
+  },
+  "homepage": "https://github.com/song940/imessage#readme",
+  "keywords": [
+    "apple",
+    "imessage"
+  ],
+  "dependencies": {
+    "sqlite3": "*"
+  }
+}
